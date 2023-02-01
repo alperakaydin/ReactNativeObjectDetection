@@ -15,11 +15,13 @@ This project aims to utilize React Native and Google Cloud technologies to detec
 
 # Steps to Run the Project
 - Clone the repository to your local machine
-Navigate to the root directory of the project using the terminal/command line
-Run npm install to install the required dependencies
-Create a Google Cloud project and set up the necessary configurations to run the AI algorithms
-Replace the Google Cloud credentials in the project with your own
-Run the React Native app on a physical device or emulator
-Take a photo using the app and see the detected objects displayed on the screen
-Conclusion
+- Navigate to the root directory of the project using the terminal/command line
+- Run npm install to install the required dependencies
+- Create a Google Cloud project and set up the necessary configurations to run the AI algorithms
+- Replace the Google Cloud credentials in the project with your own
+- Run the React Native app on a physical device or emulator
+- Take a photo using the app and see the detected objects displayed on the screen
+
+#Conclusion
+
 By utilizing React Native and Google Cloud technologies, this project provides a solution for real-time object detection in photos. The combination of these technologies allows for a seamless and efficient process, from capturing the photo to displaying the detected objects on the screen.
