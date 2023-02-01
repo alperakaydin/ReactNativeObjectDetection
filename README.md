@@ -22,6 +22,6 @@ This project aims to utilize React Native and Google Cloud technologies to detec
 - Run the React Native app on a physical device or emulator
 - Take a photo using the app and see the detected objects displayed on the screen
 
-#Conclusion
+# Conclusion
 
 By utilizing React Native and Google Cloud technologies, this project provides a solution for real-time object detection in photos. The combination of these technologies allows for a seamless and efficient process, from capturing the photo to displaying the detected objects on the screen.
